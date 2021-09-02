@@ -1,6 +1,6 @@
 # Welcome to Trok Design Library
 
-It's build using SASS. Both minified and unminified both version are included.
+It's a more customizable and developer friendly css library.You can use it both type projects SASS or Normal CSS.
 
 ### Features
 
