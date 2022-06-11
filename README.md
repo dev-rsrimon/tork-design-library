@@ -1,4 +1,4 @@
-# Welcome to Trok Design Library
+# Welcome to Trok CSS
 
 It's a more customizable and developer friendly css library.You can use it both type projects SASS or Normal CSS.
 
